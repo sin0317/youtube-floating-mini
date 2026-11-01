@@ -17,7 +17,7 @@
 ## 安装
 
 1. 装 [Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)
-2. 打开仓库里的 [`YouTube悬浮小窗.user.js`](./YouTube悬浮小窗.user.js)
+2. 打开仓库里的 [`youtube-floating-mini.user.js`](./youtube-floating-mini.user.js)
 3. 把整个文件拖进扩展页面，或复制源码粘贴到「添加新脚本」里保存
 4. 打开任意 [YouTube 视频页](https://www.youtube.com/watch?v=dQw4w9WgXcQ)，往下滚即可
 
